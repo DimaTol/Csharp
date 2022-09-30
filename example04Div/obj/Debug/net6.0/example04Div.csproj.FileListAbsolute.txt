@@ -1,0 +1,15 @@
+C:\Users\Дмитрий\Desktop\example\example04Div\bin\Debug\net6.0\example04Div.exe
+C:\Users\Дмитрий\Desktop\example\example04Div\bin\Debug\net6.0\example04Div.deps.json
+C:\Users\Дмитрий\Desktop\example\example04Div\bin\Debug\net6.0\example04Div.runtimeconfig.json
+C:\Users\Дмитрий\Desktop\example\example04Div\bin\Debug\net6.0\example04Div.dll
+C:\Users\Дмитрий\Desktop\example\example04Div\bin\Debug\net6.0\example04Div.pdb
+C:\Users\Дмитрий\Desktop\example\example04Div\obj\Debug\net6.0\example04Div.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\Desktop\example\example04Div\obj\Debug\net6.0\example04Div.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дмитрий\Desktop\example\example04Div\obj\Debug\net6.0\example04Div.AssemblyInfoInputs.cache
+C:\Users\Дмитрий\Desktop\example\example04Div\obj\Debug\net6.0\example04Div.AssemblyInfo.cs
+C:\Users\Дмитрий\Desktop\example\example04Div\obj\Debug\net6.0\example04Div.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Desktop\example\example04Div\obj\Debug\net6.0\example04Div.dll
+C:\Users\Дмитрий\Desktop\example\example04Div\obj\Debug\net6.0\refint\example04Div.dll
+C:\Users\Дмитрий\Desktop\example\example04Div\obj\Debug\net6.0\example04Div.pdb
+C:\Users\Дмитрий\Desktop\example\example04Div\obj\Debug\net6.0\example04Div.genruntimeconfig.cache
+C:\Users\Дмитрий\Desktop\example\example04Div\obj\Debug\net6.0\ref\example04Div.dll
