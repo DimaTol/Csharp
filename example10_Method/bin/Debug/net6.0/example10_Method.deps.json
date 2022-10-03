@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "examlple09introArray/1.0.0": {
+      "example10_Method/1.0.0": {
         "runtime": {
-          "examlple09introArray.dll": {}
+          "example10_Method.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "examlple09introArray/1.0.0": {
+    "example10_Method/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

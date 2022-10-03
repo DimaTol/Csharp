@@ -1,0 +1,15 @@
+C:\Users\Дмитрий\Desktop\example\example10_Method\bin\Debug\net6.0\example10_Method.exe
+C:\Users\Дмитрий\Desktop\example\example10_Method\bin\Debug\net6.0\example10_Method.deps.json
+C:\Users\Дмитрий\Desktop\example\example10_Method\bin\Debug\net6.0\example10_Method.runtimeconfig.json
+C:\Users\Дмитрий\Desktop\example\example10_Method\bin\Debug\net6.0\example10_Method.dll
+C:\Users\Дмитрий\Desktop\example\example10_Method\bin\Debug\net6.0\example10_Method.pdb
+C:\Users\Дмитрий\Desktop\example\example10_Method\obj\Debug\net6.0\example10_Method.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\Desktop\example\example10_Method\obj\Debug\net6.0\example10_Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дмитрий\Desktop\example\example10_Method\obj\Debug\net6.0\example10_Method.AssemblyInfoInputs.cache
+C:\Users\Дмитрий\Desktop\example\example10_Method\obj\Debug\net6.0\example10_Method.AssemblyInfo.cs
+C:\Users\Дмитрий\Desktop\example\example10_Method\obj\Debug\net6.0\example10_Method.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Desktop\example\example10_Method\obj\Debug\net6.0\example10_Method.dll
+C:\Users\Дмитрий\Desktop\example\example10_Method\obj\Debug\net6.0\refint\example10_Method.dll
+C:\Users\Дмитрий\Desktop\example\example10_Method\obj\Debug\net6.0\example10_Method.pdb
+C:\Users\Дмитрий\Desktop\example\example10_Method\obj\Debug\net6.0\example10_Method.genruntimeconfig.cache
+C:\Users\Дмитрий\Desktop\example\example10_Method\obj\Debug\net6.0\ref\example10_Method.dll

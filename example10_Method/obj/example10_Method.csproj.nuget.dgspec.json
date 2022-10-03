@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Дмитрий\\Desktop\\example\\examlple09introArray\\examlple09introArray.csproj": {}
+    "C:\\Users\\Дмитрий\\Desktop\\example\\example10_Method\\example10_Method.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Дмитрий\\Desktop\\example\\examlple09introArray\\examlple09introArray.csproj": {
+    "C:\\Users\\Дмитрий\\Desktop\\example\\example10_Method\\example10_Method.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Дмитрий\\Desktop\\example\\examlple09introArray\\examlple09introArray.csproj",
-        "projectName": "examlple09introArray",
-        "projectPath": "C:\\Users\\Дмитрий\\Desktop\\example\\examlple09introArray\\examlple09introArray.csproj",
+        "projectUniqueName": "C:\\Users\\Дмитрий\\Desktop\\example\\example10_Method\\example10_Method.csproj",
+        "projectName": "example10_Method",
+        "projectPath": "C:\\Users\\Дмитрий\\Desktop\\example\\example10_Method\\example10_Method.csproj",
         "packagesPath": "C:\\Users\\Дмитрий\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Дмитрий\\Desktop\\example\\examlple09introArray\\obj\\",
+        "outputPath": "C:\\Users\\Дмитрий\\Desktop\\example\\example10_Method\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Дмитрий\\AppData\\Roaming\\NuGet\\NuGet.Config"
